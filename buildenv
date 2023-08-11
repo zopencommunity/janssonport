@@ -1,0 +1,46 @@
+JANSSON_VERSION="2.14"
+export ZOPEN_GIT_URL="https://github.com/akheron/jansson.git"
+export ZOPEN_GIT_DEPS="git make m4 autoconf perl libtool automake bash zoslib tar sed coreutils"
+export ZOPEN_TYPE="GIT"
+export ZOPEN_RUNTIME_DEPS=""
+export ZOPEN_COMP="clang"
+
+export ZOPEN_EXTRA_CFLAGS="-mzos-target=zosv2r4"
+
+zopen_post_buildenv()
+{
+  if [ "$ZOPEN_TYPE" = "GIT" ]; then
+    export ZOPEN_BOOTSTRAP='./autogen'
+  fi
+}
+
+zopen_check_results()
+{
+  chk="test-suite.log"
+  totalTests=$(grep -E "TOTAL:" $chk | awk '{ print $3}') 
+  failures=$(grep -E "# FAIL:" $chk | awk '{ print $3}')
+  
+# Echo the following information to guage build health
+cat <<TEST
+actualFailures:$failures
+totalTests:$totalTests
+expectedFailures:0
+TEST
+}
+
+zopen_append_to_env()
+{
+
+}
+
+zopen_append_to_setup()
+{
+  # echo commands that will run when installing via setup.sh
+}
+
+zopen_get_version()
+{
+  # Modify to echo the version of your tool/library
+  # Rather than hardcoding the version, obtain the version by running the tool/library
+  echo "${JANSSON_VERSION}"
+}
