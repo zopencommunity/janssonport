@@ -1,1 +1,74 @@
-ƒ€ä?>ÈÊÑÂÍÈÑ>ÅŽŽƒƒ€ñËËÍÁËŽŽ<?Å€/>€ÑËËÍÁ€Ã?Ê€/>`€ÉÍÁËÈÑ?>€?Ê€øÊ?Â%Á_€`?Í€_ÑÅÇÈ€Ç/ÎÁ€ïÇÁ>€Ñ>€À?ÍÂÈŒ€%?Å€/>€ÑËËÍÁŒ€/>ÀŽ/>`€/ÀÀÑÈÑ?>/%€ø?%ÑÄÑÁË€/Â?ÍÈ€ÏÇ/È€È?€Ñ>Ä%ÍÀÁ€ÏÑ%%€ÂÁ€øÊ?ÎÑÀÁÀ€Ñ>€ÈÇÁ€ÊÁËø?>ËÁË€èÇÁ€?>%`ŽÁÌÄÁøÈÑ?>€ÑË€ËÁÄÍÊÑÈ`€ÀÑËÄ%?ËÍÊÁË€ÏÇÑÄÇ€ËÇ?Í%À€ÂÁ€ËÁ>È€øÊÑÎ/ÈÁ%`ŽŽä?__ÑÈÈÁÊË€_/`€ÀÑÊÁÄÈ€`?Í€È?€/>?ÈÇÁÊ€ÊÁø?ËÑÈ?Ê`Œ€/Ë,€Ã?Ê€/ÀÀÑÈÑ?>/%€Ä%/ÊÑÃÑÄ/ÈÑ?>ËŒ€/>ÀŽ/ÀÀ€/øøÊ?øÊÑ/ÈÁ€_ÁÈ/À/È/€ÂÁÃ?ÊÁ€ÈÇÁ€ÑËËÍÁ€ÑË€/ÀÀÊÁËËÁÀŽŽƒƒ€ä?>ÈÊÑÂÍÈÑ?>ËŽŽ >`€ÄÇ/>ÅÁ€È?€ÊÁË?ÍÊÄÁË€Ñ>€ÈÇÑË€ÊÁø?ËÑÈ?Ê`€_ÍËÈ€ÂÁ€ÈÇÊ?ÍÅÇ€øÍ%%€ÊÁÉÍÁËÈË€èÇÑË€/øø%ÑÁË€È?€/%%€ÄÇ/>ÅÁËŽÈ?€À?ÄÍ_Á>È/ÈÑ?>Œ€Ä?ÀÁŒ€ÂÑ>/Ê`€ÃÑ%ÁËŒ€ÁÈÄŽŽ+?€øÍ%%€ÊÁÉÍÁËÈ€Ä/>€ÂÁ€_ÁÊÅÁÀ€ÏÑÈÇ?ÍÈ€ÂÁÑ>Å€ÊÁÎÑÁÏÁÀ€/>À€/øøÊ?ÎÁÀŽŽƒƒ€î/%ÑÀ/ÈÁ€`?ÍÊ€ÄÇ/>ÅÁËŽŽîÁÊÑÃ`€ÈÇ/È€ÈÇÁ€øÊ?¦ÁÄÈ€ÑË€Ï?Ê,Ñ>Å€Â`€ÊÍ>>Ñ>Å€-:?øÁ>€ÂÍÑ%À-ŽŽƒƒ€ä?ÀÑ>Å€åÍÑÀÁ%Ñ>ÁËŽŽïÇÁ>€Ä?>ÈÊÑÂÍÈÑ>Å€`?ÍÊ€ÄÇ/>ÅÁËŒ€ø%Á/ËÁ€Ã?%%?Ï€ÈÇÁ€Ã?%%?ÏÑ>Å€Ä?ÀÑ>Å€ÅÍÑÀÁ%Ñ>ÁËšŽŠ€ø/ÈÄÇÁËš€ø/ÈÄÇÁË€ËÇ?Í%À€/ÀÇÁÊÁ€È?€ÈÇÁ€Ä?ÀÑ>Å€ÅÍÑÀÁ%Ñ>ÁË€ÃÊ?_€ÈÇÁ€?ÊÑÅÑ>/%€øÊ?¦ÁÄÈ€ÊÁø?ËÑÈ?Ê`€(/,Á€ËÍÊÁ€È?€/ÀÀ€ÈÇÁ€?ÊÑÅÑ>/%€øÊ?¦ÁÄÈË€<ñäá+ëá€ÃÑ%Á€ÏÑÈÇÑ>€ÈÇÁ€ø/ÈÄÇÁËŽÀÑÊÁÄÈ?Ê`ŽŠ€:?øÁ>€ÃÊ/_ÁÏ?Ê,€ÃÑ%ÁËš€ˆÁÅ€ÂÍÑ%ÀÁ>Î‰€€ñÈ€ÑË€ÊÁÄ?__Á>ÀÁÀ€ÈÇ/È€`?Í€Ã?%%?Ï€ÈÇÁ€$å??Å%Á€ëÇÁ%%€ëÈ`%Á€åÍÑÀÁ)ˆÇÈÈøËšÅ??Å%ÁÅÑÈÇÍÂÑ?ËÈ`%ÁÅÍÑÀÁËÇÁ%%ÅÍÑÀÁÇÈ_%‰ŽŽñÃ€`?Í€/ÊÁ€ÅÁ>ÁÊ/ÈÑ>Å€/€>ÁÏ€øÊ?¦ÁÄÈŒ€ÏÁ€ÊÁÄ?__Á>À€ÈÇ/È€`?Í€ÍËÁ€-:?øÁ>€ÅÁ>ÁÊ/ÈÁ-€È?€ÄÊÁ/ÈÁ€ÈÇÁ€Ä?ÊÊÁÄÈ€:?øÁ>€ÃÑ%Á€/>À€ÀÑÊÁÄÈ?Ê`€ËÈÊÍÄÈÍÊÁŽŽƒƒƒ€ä?__ÑÈ€_ÁËË/ÅÁŽŽ €Å??À€Ä?__ÑÈ€_ÁËË/ÅÁ€ËÇ?Í%À€ÀÁËÄÊÑÂÁ€ÏÇ/È€ÄÇ/>ÅÁÀ€/>À€ÏÇ`ŽŽñÈ€ËÇ?Í%ÀšŽ€€Š€Ä?>È/Ñ>€/€ËÇ?ÊÈ€ÀÁËÄÊÑøÈÑ?>€?Ã€ÈÇÁ€ÄÇ/>ÅÁŽ€€Š€ÂÁ€Á>ÈÑÊÁ%`€Ñ>€%?ÏÁÊÄ/ËÁ€ÏÑÈÇ€ÈÇÁ€ÁÌÄÁøÈÑ?>€?Ã€øÊ?øÁÊ€>?Í>ËŒ€/ÄÊ?>`_ËŒ€/>À€ÈÇÁ€Ï?ÊÀË€ÈÇ/È€ÊÁÃÁÊ€È?€Ä?ÀÁŒ€%Ñ,Á€ÃÍ>ÄÈÑ?>Î/ÊÑ/Â%Á€>/_ÁËŽ€€Š€ÂÁ€øÊÁÃÑÌÁÀ€ÏÑÈÇ€?>Á€?Ã€ÈÇÁ€Ã?%%?ÏÑ>Å€Ï?ÊÀËšŽ€€€€Š€ÃÑÌš€ÂÍÅ€ÃÑÌŽ€€€€Š€Ç?ÈÃÑÌš€ÍÊÅÁ>È€ÂÍÅ€ÃÑÌŽ€€€€Š€ÃÁ/Èš€>ÁÏ€?Ê€ÍøÀ/ÈÁÀ€ÃÁ/ÈÍÊÁŽ€€€€Š€À?ÄËš€À?ÄÍ_Á>È/ÈÑ?>€ÍøÀ/ÈÁËŽ€€€€Š€ÊÁÃ/ÄÈ?Êš€Ä?ÀÁ€ÊÁÃ/ÄÈ?ÊÑ>Å€ˆ>?€ÃÍ>ÄÈÑ?>/%€ÄÇ/>ÅÁ‰Ž€€€€Š€øÁÊÃš€øÁÊÃ?Ê_/>ÄÁ€Ñ_øÊ?ÎÁ_Á>ÈŽ€€€€Š€ÈÁËÈš€ÈÁËÈË€/>À€äñ€ÍøÀ/ÈÁËŽŽƒƒƒ€àÁÎÁ%?øÁÊË€äÁÊÈÑÃÑÄ/ÈÁ€?Ã€|ÊÑÅÑ>€‘‘ŽŽøÊÁžŽâ`€_/,Ñ>Å€/€Ä?>ÈÊÑÂÍÈÑ?>€È?€ÈÇÑË€øÊ?¦ÁÄÈŒ€ñ€ÄÁÊÈÑÃ`€ÈÇ/ÈšŽŽ€ˆ/‰€èÇÁ€Ä?>ÈÊÑÂÍÈÑ?>€Ï/Ë€ÄÊÁ/ÈÁÀ€Ñ>€ÏÇ?%Á€?Ê€Ñ>€ø/ÊÈ€Â`€_Á€/>À€ñŽ€€€€€Ç/ÎÁ€ÈÇÁ€ÊÑÅÇÈ€È?€ËÍÂ_ÑÈ€ÑÈ€Í>ÀÁÊ€ÈÇÁ€?øÁ>€Ë?ÍÊÄÁ€%ÑÄÁ>ËÁŽ€€€€€Ñ>ÀÑÄ/ÈÁÀ€Ñ>€ÈÇÁ€ÃÑ%Á›€?ÊŽŽ€ˆÂ‰€èÇÁ€Ä?>ÈÊÑÂÍÈÑ?>€ÑË€Â/ËÁÀ€Íø?>€øÊÁÎÑ?ÍË€Ï?Ê,€ÈÇ/ÈŒ€È?€ÈÇÁ€ÂÁËÈŽ€€€€€?Ã€_`€,>?Ï%ÁÀÅÁŒ€ÑË€Ä?ÎÁÊÁÀ€Í>ÀÁÊ€/>€/øøÊ?øÊÑ/ÈÁ€?øÁ>€Ë?ÍÊÄÁŽ€€€€€%ÑÄÁ>ËÁ€/>À€ñ€Ç/ÎÁ€ÈÇÁ€ÊÑÅÇÈ€Í>ÀÁÊ€ÈÇ/È€%ÑÄÁ>ËÁ€È?€ËÍÂ_ÑÈ€ÈÇ/ÈŽ€€€€€Ï?Ê,€ÏÑÈÇ€_?ÀÑÃÑÄ/ÈÑ?>ËŒ€ÏÇÁÈÇÁÊ€ÄÊÁ/ÈÁÀ€Ñ>€ÏÇ?%Á€?Ê€Ñ>€ø/ÊÈŽ€€€€€Â`€_ÁŒ€Í>ÀÁÊ€ÈÇÁ€Ë/_Á€?øÁ>€Ë?ÍÊÄÁ€%ÑÄÁ>ËÁ€ˆÍ>%ÁËË€ñ€/_Ž€€€€€øÁÊ_ÑÈÈÁÀ€È?€ËÍÂ_ÑÈ€Í>ÀÁÊ€/€ÀÑÃÃÁÊÁ>È€%ÑÄÁ>ËÁ‰Œ€/Ë€Ñ>ÀÑÄ/ÈÁÀŽ€€€€€Ñ>€ÈÇÁ€ÃÑ%Á›€?ÊŽŽ€ˆÄ‰€èÇÁ€Ä?>ÈÊÑÂÍÈÑ?>€Ï/Ë€øÊ?ÎÑÀÁÀ€ÀÑÊÁÄÈ%`€È?€_Á€Â`€Ë?_Á€?ÈÇÁÊŽ€€€€€øÁÊË?>€ÏÇ?€ÄÁÊÈÑÃÑÁÀ€ˆ/‰Œ€ˆÂ‰€?Ê€ˆÄ‰€/>À€ñ€Ç/ÎÁ€>?È€_?ÀÑÃÑÁÀŽ€€€€€ÑÈŽŽ€ˆÀ‰€ñ€Í>ÀÁÊËÈ/>À€/>À€/ÅÊÁÁ€ÈÇ/È€ÈÇÑË€øÊ?¦ÁÄÈ€/>À€ÈÇÁ€Ä?>ÈÊÑÂÍÈÑ?>Ž€€€€€/ÊÁ€øÍÂ%ÑÄ€/>À€ÈÇ/È€/€ÊÁÄ?ÊÀ€?Ã€ÈÇÁ€Ä?>ÈÊÑÂÍÈÑ?>€ˆÑ>Ä%ÍÀÑ>Å€/%%Ž€€€€€øÁÊË?>/%€Ñ>Ã?Ê_/ÈÑ?>€ñ€ËÍÂ_ÑÈ€ÏÑÈÇ€ÑÈŒ€Ñ>Ä%ÍÀÑ>Å€_`€ËÑÅ>?ÃÃ‰€ÑËŽ€€€€€_/Ñ>È/Ñ>ÁÀ€Ñ>ÀÁÃÑ>ÑÈÁ%`€/>À€_/`€ÂÁ€ÊÁÀÑËÈÊÑÂÍÈÁÀ€Ä?>ËÑËÈÁ>È€ÏÑÈÇŽ€€€€€ÈÇÑË€øÊ?¦ÁÄÈ€?Ê€ÈÇÁ€?øÁ>€Ë?ÍÊÄÁ€%ÑÄÁ>ËÁˆË‰€Ñ>Î?%ÎÁÀŽøÊÁžŽ
+# Contributing
+
+## Issues
+
+Log an issue for any question or problem you might have. When in doubt, log an issue, and
+any additional policies about what to include will be provided in the responses. The only
+exception is security disclosures which should be sent privately.
+
+Committers may direct you to another repository, ask for additional clarifications, and
+add appropriate metadata before the issue is addressed.
+
+## Contributions
+
+Any change to resources in this repository must be through pull requests. This applies to all changes
+to documentation, code, binary files, etc.
+
+No pull request can be merged without being reviewed and approved.
+
+## Validate your changes
+
+Verify that the project is working by running `zopen build`.
+
+## Coding Guidelines
+
+When contributing your changes, please follow the following coding guidelines:
+* patches: patches should adhere to the coding guidelines from the original project repository. Make sure to add the original project's LICENSE file within the patches
+directory.
+* zopen framework files: (e.g. buildenv) - It is recommended that you follow the [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+
+If you are generating a new project, we recommend that you use `zopen generate` to create the correct zopen file and directory structure.
+
+### Commit message
+
+A good commit message should describe what changed and why.
+
+It should:
+  * contain a short description of the change
+  * be entirely in lowercase with the exception of proper nouns, acronyms, and the words that refer to code, like function/variable names
+  * be prefixed with one of the following words:
+    * fix: bug fix
+    * hotfix: urgent bug fix
+    * feat: new or updated feature
+    * docs: documentation updates
+    * refactor: code refactoring (no functional change)
+    * perf: performance improvement
+    * test: tests and CI updates
+
+### Developer's Certificate of Origin 1.1
+
+<pre>
+By making a contribution to this project, I certify that:
+
+ (a) The contribution was created in whole or in part by me and I
+     have the right to submit it under the open source license
+     indicated in the file; or
+
+ (b) The contribution is based upon previous work that, to the best
+     of my knowledge, is covered under an appropriate open source
+     license and I have the right under that license to submit that
+     work with modifications, whether created in whole or in part
+     by me, under the same open source license (unless I am
+     permitted to submit under a different license), as indicated
+     in the file; or
+
+ (c) The contribution was provided directly to me by some other
+     person who certified (a), (b) or (c) and I have not modified
+     it.
+
+ (d) I understand and agree that this project and the contribution
+     are public and that a record of the contribution (including all
+     personal information I submit with it, including my sign-off) is
+     maintained indefinitely and may be redistributed consistent with
+     this project or the open source license(s) involved.
+</pre>

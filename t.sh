@@ -1,1 +1,10 @@
-ฤว,ฆ/>หห?>ศมหศหอัศม%?ลศ?ศ/%่มหศหลสม๘€ฯ€่|่ <€ฤว,€@€/ฯ,€#€๘สั>ศ€“'ร/ั%อสมหลสม๘€ฯ€ใ ๑<€ฤว,€@€/ฯ,€#€๘สั>ศ€“'€แฤว?€ศวม€ร?%%?ฯั>ล€ั>ร?ส_/ศั?>€ศ?€ลอ/ลม€ยอั%ภ€วม/%ศวฤ/ศ€่แ๋่/ฤศอ/%ใ/ั%อสมหร/ั%อสมห่?ศ/%่มหศหศ?ศ/%่มหศหมฬ๘มฤศมภใ/ั%อสมห่แ๋่
+chk="jansson/test-suite.log"
+totalTests=$(grep -w "TOTAL:" $chk | awk '{ print $3}')
+failures=$(grep -w "FAIL:" $chk | awk '{ print $3}')
+
+# Echo the following information to guage build health
+cat <<TEST
+actualFailures:$failures
+TotalTests:$totalTests
+expectedFailures:0
+TEST

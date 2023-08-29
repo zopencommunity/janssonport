@@ -1,1 +1,14 @@
->?ÀÁˆ%Ñ>ÍÌ‰Ž#Ž€€ËÈ/ÅÁ€ˆ&?%%‰€#Ž€€€€ÄÇÁÄ,?ÍÈˆ$Ž€€€€€€„Ä%/ËËš€åÑÈëä(ŒŽ€€€€€€ÂÊ/>ÄÇÁËš€$$>/_Áš€Š_/Ñ>))ŒŽ€€€€€€À?åÁ>ÁÊ/ÈÁëÍÂ_?ÀÍ%Áä?>ÃÑÅÍÊ/ÈÑ?>Ëš€Ã/%ËÁŒŽ€€€€€€ÁÌÈÁ>ËÑ?>Ëš€$)ŒŽ€€€€€€ÍËÁÊêÁ_?ÈÁä?>ÃÑÅËš€$$ÍÊ%š€ÇÈÈøËšÅÑÈÇÍÂÄ?_!|ë|øÁ>è??%Ë%ÑÂ¦/>ËË?>ø?ÊÈÅÑÈ)))‰Ž€€'Ž€€ËÈ/ÅÁˆâÍÑ%À‰€#Ž€€€€ÂÍÑ%À€¦?Âš€&?ÊÈ&ÑøÁ%Ñ>ÁŒ€ø/Ê/_ÁÈÁÊËš€$ËÈÊÑ>Åˆ>/_Áš€&|êè^åñèçíâ^êá&|Œ€Î/%ÍÁš€ÇÈÈøËšÅÑÈÇÍÂÄ?_!|ë|øÁ>è??%Ë%ÑÂ¦/>ËË?>ø?ÊÈÅÑÈ‰Œ€ËÈÊÑ>Åˆ>/_Áš€&|êè^àáëäêñ&èñ|+Œ€Î/%ÍÁš€ø?ÊÈ€?Ã€%ÑÂ¦/>ËË?>€‰)Ž€€'Ž'Ž
+node('linux')
+{
+  stage ('Poll') {
+    checkout([
+      $class: 'GitSCM',
+      branches: [[name: '*/main']],
+      doGenerateSubmoduleConfigurations: false,
+      extensions: [],
+      userRemoteConfigs: [[url: 'https://github.com/ZOSOpenTools/libjanssonport.git']]])
+  }
+  stage('Build') {
+    build job: 'Port-Pipeline', parameters: [string(name: 'PORT_GITHUB_REPO', value: 'https://github.com/ZOSOpenTools/libjanssonport.git'), string(name: 'PORT_DESCRIPTION', value: 'port of libjansson' )]
+  }
+}
