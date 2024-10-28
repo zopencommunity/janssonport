@@ -2,6 +2,7 @@ JANSSON_VERSION="2.14"
 export ZOPEN_GIT_URL="https://github.com/akheron/jansson.git"
 export ZOPEN_GIT_DEPS="git make cmake m4 autoconf perl libtool automake bash zoslib tar sed coreutils"
 export ZOPEN_TYPE="GIT"
+export ZOPEN_CATEGORIES="library"
 export ZOPEN_RUNTIME_DEPS=""
 export ZOPEN_COMP="clang"
 
